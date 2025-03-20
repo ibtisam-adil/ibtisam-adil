@@ -12,7 +12,7 @@ I love building projects that challenge me and help me grow.
 - **2D Survival Game** (C++ & Raylib)  
 - **2D Shoot 'Em Up** (Unity)  
 
-📫 **Reach me at:** [LinkedIn] | [Twitter/X] | [Portfolio]  
+📫 **Reach me at:** [LinkedIn] | [Portfolio]  
 
 ---
 
